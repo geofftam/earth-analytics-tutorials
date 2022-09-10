@@ -1,0 +1,9 @@
+# Ignore data folder
+/data
+
+# Checkpoints
+.ipynb_checkpoints
+
+# Environment
+/earth-analytics-python-env
+
